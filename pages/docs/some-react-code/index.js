@@ -17,11 +17,7 @@ class SomeReactCode extends Component {
         <div>
           <h1>Some React Code</h1>
           <p>
-            It's easy to intermix different file types. The other documentation pages
-            are all written in Markdown but this page is a normal React.js component.
-            Gatsby has built-in support for Markdown, HTML, JSX,
-            CJSX (Coffeescript flavored JSX), JSON, YAML, and TOML
-            and it's easy to add support for additional file formats.
+          Fuck you, this is just an example. 
           </p>
           <p>
             React.js component pages makes it easy to add interactivity or ajax enhancements
